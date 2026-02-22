@@ -56,8 +56,9 @@ Task 1 完了後に Task 2 を起動...
 
 | スキル | 用途 |
 |-------|------|
+| `/git-worktree-pr` | **汎用** worktree + PR ワークフロー（全プロジェクト対応） |
 | `/python-tdd` | Python/pytest でのTDDワークフロー |
-| `/autotrader-backtest` | バックテスト機能開発の標準手順 |
+| `/autotrader-backtest` | AutoTraderV4 バックテスト機能開発の手順 |
 | `/strategic-compact` | コンテキスト節約タイミングの提案 |
 | `/continuous-learning` | セッションからパターンを抽出・保存 |
 | `/code-review` | PR コードレビュー |
